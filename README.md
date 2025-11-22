@@ -1,6 +1,6 @@
 #Enterprise Security Engineering & Architecture Portfolio
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8b0685b6-1e5f-4308-98ad-c52eb309e3b7" />
+<img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/8b0685b6-1e5f-4308-98ad-c52eb309e3b7" />
 
 
 ## Cloud Security • IAM & Zero Trust • Kubernetes Security • DevSecOps • AI Security • Threat Modeling • Architecture Design
