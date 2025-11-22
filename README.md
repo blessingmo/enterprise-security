@@ -99,6 +99,27 @@ To get a high-level view of my skills and projects:
    `scripts-and-tools/`  
 
 
+## Personal Narrative
+
+I currently work as a **Security Analyst**, and I’m completing an **MSc in Artificial Intelligence** part-time.  
+My long-term goal is to become an **Enterprise Security Architect** with deep expertise in:
+
+- Identity and Access Management  
+- Zero Trust  
+- Cloud Security (Azure/AWS)  
+- DevSecOps engineering  
+- AI system security  
+
+I built this portfolio to demonstrate **real capability**. Every project represents my approach to security risks, architecture, and implementation.
+
+
+
+## Final Notes
+
+If you are a hiring manager or engineer looking over this portfolio, feel free to explore the projects and designs.  
+This repository reflects continuous growth, deeper technical capability, and a long-term focus on becoming a highly skilled and impactful Security Architect.
+
+
 ##  5. Contact  
 If you want to discuss any project, design, or architecture decision:  
 **Email:** _[]_  
