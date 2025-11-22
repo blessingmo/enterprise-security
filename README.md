@@ -7,27 +7,27 @@ This work represents continuous development, learning, relearning and building o
 
 
 ##What This Portfolio Demonstrates
-✔ Security Engineering depth
+###Security Engineering depth
 
 Real implementations showing mastery of Azure, AWS, Kubernetes, Terraform, CI/CD, and cloud-native security patterns.
 
-✔ Architecture-level thinking
+###Architecture-level thinking
 
 Diagrams, system designs, threat models, and reference architectures for Zero Trust, IAM, API security, data security, DR, and secure cloud foundations.
 
-✔ Identity & Access Management expertise
+###Identity & Access Management expertise
 
 Full coverage of IAM architecture: OAuth2/OIDC, SAML, SCIM automation, PAM, IGA, JIT/PIM, least-privilege design, and multi-cloud identity governance.
 
-✔ DevSecOps + Infrastructure Security
+###DevSecOps + Infrastructure Security
 
 Understanding of CI/CD security pipelines, policy-as-code, Kubernetes hardening, runtime detection, supply-chain security, and secure SDLC integration.
 
-✔ AI Security capability
+###AI Security capability
 
 LLM threat modeling, secure RAG architecture, AI supply-chain analysis, secure MLOps pipelines, and model misuse detection.
 
-✔ Threat modeling proficiency
+###Threat modeling proficiency
 
 STRIDE, attack trees, data-flow analysis, and architecture-level risk assessments across multiple systems and technologies.
 
