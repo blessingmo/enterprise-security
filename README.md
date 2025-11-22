@@ -1,94 +1,96 @@
 #Enterprise Security Engineering & Architecture Portfolio
-Cloud Security • IAM & Zero Trust • Kubernetes Security • DevSecOps • AI Security • Threat Modeling • Architecture Design
+## Cloud Security • IAM & Zero Trust • Kubernetes Security • DevSecOps • AI Security • Threat Modeling • Architecture Design
 
-This portfolio showcases my end-to-end capability to design, build, and secure modern enterprise systems across cloud, identity, DevSecOps, application security, and AI. It contains production-grade security baselines, hands-on implementations, and architecture reference designs that demonstrate how I approach security as an engineer, architect, and system thinker.
+This portfolio showcases my end-to-end capability to design, build, and secure modern enterprise systems across cloud, identity, DevSecOps, application security, and AI. It contains production-grade security baselines, hands-on labs, and architecture reference designs that demonstrate how I approach security as an engineer, architect, and system thinker.
 
 This work represents continuous development, learning, relearning and building of structured deep practice, aligned with my long-term goal of becoming an Enterprise Security Architect with strong expertise in AI Security and Identity & Access Governance.
 
 
-##What This Portfolio Demonstrates
-###Security Engineering depth
+## 1. What This Portfolio Demonstrates
+This portfolio serves as a demonstration of:
+My understanding;
+- Secure cloud architectures (Azure & AWS)
+My ability to;
+- Build identity-centric solutions applying IAM and Zero Trust principles
+- Engineer secure CI/CD pipelines and DevSecOps automation
+- Harden Kubernetes, workloads, APIs, and infrastructure at scale
+- Conduct advanced threat modeling for complex systems
+- Apply AI Security concepts across LLMs, RAG pipelines, and ML supply chains
+- Develop security reference architectures for enterprise environments
 
-Real implementations showing mastery of Azure, AWS, Kubernetes, Terraform, CI/CD, and cloud-native security patterns.
+## 2. Repository Structure  
+The portfolio is organised into the following sections
 
-###Architecture-level thinking
-
-Diagrams, system designs, threat models, and reference architectures for Zero Trust, IAM, API security, data security, DR, and secure cloud foundations.
-
-###Identity & Access Management expertise
-
-Full coverage of IAM architecture: OAuth2/OIDC, SAML, SCIM automation, PAM, IGA, JIT/PIM, least-privilege design, and multi-cloud identity governance.
-
-###DevSecOps + Infrastructure Security
-
-Understanding of CI/CD security pipelines, policy-as-code, Kubernetes hardening, runtime detection, supply-chain security, and secure SDLC integration.
-
-###AI Security capability
-
-LLM threat modeling, secure RAG architecture, AI supply-chain analysis, secure MLOps pipelines, and model misuse detection.
-
-###Threat modeling proficiency
-
-STRIDE, attack trees, data-flow analysis, and architecture-level risk assessments across multiple systems and technologies.
-
-##Goal of This Repository
-
-To provide clear, verifiable evidence of my ability to:
-
-Design secure cloud and identity architectures
-
-Build secure, automated, scalable systems
-
-Assess and mitigate real-world risks
-
-Integrate security into DevOps and ML pipelines
-
-Support enterprise-scale engineering and architecture decisions
-
-##This portfolio reflects my path toward senior roles, such as:
-
-Security Engineer (Mid/Senior/Lead)
-
-IAM Engineer / IAM Architect
-
-Cloud Security Engineer
-
-Security Architect
-
-AI Security Engineer
-
-##Structure Overview
-
-The repository is organised into:
-
-Hands-on labs
-
-Production-ready security baselines
-
-Reference architectures
-
-Threat models
-
-Automation scripts/tools
-
-Enterprise projects (the high-value ones)
-
-Documentation, whitepapers, presentations
-
-Each folder is documented with objectives, architectures, decisions, and implementation details.
-
-How to Navigate
-
-Start at:
-00-portfolio-index/README.md → portfolio overview + skills matrix
-Then explore the following high-impact areas:
-
-02-production-baselines/
-
+01-hands-on-labs/ # Cloud, IAM, DevSecOps, K8s, AI security labs
+02-production-baselines/ # Production-ready templates and secure configurations
 03-architecture-reference-designs/
+04-threat-models/
+05-enterprise-projects/ # Full end-to-end engineering projects
+06-scripts-and-tools/ # Python / IaC / automation
+07-dashboards-showcase/
+08-publications/
+09-admin/
 
-05-enterprise-projects/
 
-06-scripts-and-tools/
 
-06-ai-security-baselines/
+##  3. Core Domains Covered  
+
+### **Cloud Security**
+- Azure Landing Zones, AWS Multi-Account Security
+- CI/CD pipeline security pipelines, policy-as-code, Kubernetes hardening, runtime detection, supply-chain security, and secure SDLC integration.
+- Network security, encryption, key management, IAM guardrails
+- Terraform secure modules
+
+### **Identity & Access Management**
+- OAuth2, OIDC, SAML, SCIM
+- IGA, PAM, PIM, identity lifecycle automation
+- Zero Trust reference architectures
+- JIT/PIM, least-privilege design, and multi-cloud identity governance.
+
+### **DevSecOps**
+- SAST, SCA, IaC scanning (CodeQL, Trivy, Checkov)
+- GitHub Actions secure pipelines
+- Policy-as-Code (OPA/Gatekeeper, Sentinel)
+
+### **Kubernetes Security**
+- RBAC, Pod Security, NetworkPolicies
+- Runtime detection (Falco)
+- Gatekeeper policies
+
+### **AI Security**
+- LLM threat modeling
+- Secure RAG architecture
+- AI supply chain security
+- Secure MLOps pipelines
+- Model misuse detection.
+- Identity as the foundation of AI Accountability; regulatory and compliance needs for AI systems
+
+### **Threat Modeling & Architecture Design**
+- Diagrams, system designs, threat models, and reference architectures for Zero Trust, IAM, API security, data security, DR, and secure cloud foundations.
+- STRIDE / Attack Trees
+- System decomposition, DFDs
+- Risk-based design decisions
+- Data-flow analysis, and architecture-level risk assessments across multiple systems and technologies.
+
+
+
+## 4. How to Navigate  
+To get a high-level view of my skills and projects:
+
+1. Start at:  
+   `skills-matrix.md` – maps skills → evidence  
+2. Explore:  
+   `architecture-reference-designs/`  
+3. Review high-value enterprise projects:  
+   `enterprise-projects/`  
+4. Evaluate hands-on depth via:  
+   `hands-on-labs/`  
+5. See tactical automation in:  
+   `scripts-and-tools/`  
+
+
+##  5. Contact  
+If you want to discuss any project, design, or architecture decision:  
+**Email:** _[]_  
+**LinkedIn:** LinkedIn.com/in/blessingmo 
+
